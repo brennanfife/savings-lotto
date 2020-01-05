@@ -8,5 +8,5 @@ app/.next
 .env
 
 # Environment Variables
-.env
+*.env
 .env.build
