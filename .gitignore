@@ -1,2 +1,12 @@
 node_modules/
-.vscode
+.vscode/
+!app/
+app/.next
+
+# misc
+.DS_Store
+.env
+
+# Environment Variables
+*.env
+.env.build
